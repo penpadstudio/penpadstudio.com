@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="288px" height="288px" viewBox="0 0 288 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>NoirID Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="143.9999 0 0 0 0 288 143.9999 288 287.9998 288 287.9998 0"></polygon>
+    </defs>
+    <g id="Development" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="penstudioblack-copy">
+            <g id="NoirID-Copy">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M287.9998,144 C287.9998,223.529 223.5288,288 143.9998,288 C64.4708,288 -0.0002,223.529 -0.0002,144 C-0.0002,64.471 64.4708,0 143.9998,0 C223.5288,0 287.9998,64.471 287.9998,144" id="IDCircle" fill="#F4F4F4" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M220.248865,142.87661 L278.54871,195.370027 C259.253618,245.874988 212.348024,282.703087 156.288741,287.441558 L43.9206858,175.092986 C43.4427698,174.615152 43.5139666,173.460939 44.1342762,171.630345 L70.6876,156.8904 L73.7336,154.6744 L220.248865,142.87661 Z" id="Path" fill="#BFBFBF"></path>
+                <path d="M217.0829,151.0947 L217.0379,151.0947" id="Fill-10" fill="#F4F4F4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

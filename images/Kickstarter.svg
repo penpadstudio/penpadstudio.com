@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Kickstarter</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 54 47 54 47 0 0 0"></polygon>
+        <path d="M0,41.0438901 L0,12.9561099 C0,5.80255676 5.74058,0 12.8169,0 C17.1966733,0 21.0318733,2.20106876 23.3577467,5.57744383 L25.1146067,3.80173009 C30.1125867,-1.25055652 38.2533,-1.25055652 43.25128,3.80173009 C48.2495733,8.85401671 48.2495733,17.0827552 43.25128,22.1353606 L38.4265733,27.0125948 L43.25128,31.8646394 C48.2495733,36.916926 48.2495733,45.1459833 43.25128,50.1982699 C38.2533,55.2505565 30.1125867,55.2505565 25.1146067,50.1982699 L23.3577467,48.4222373 C21.0318733,51.7989312 17.1966733,54 12.8169,54 C5.74058,54 0,48.1971244 0,41.0438901 Z" id="path-3"></path>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="12.9″-iPad-Pro" transform="translate(-1076.000000, -1174.000000)">
+            <g id="Kickstarter" transform="translate(1076.000000, 1174.000000)">
+                <circle id="Oval-Copy-6" fill="#262626" cx="70" cy="70" r="70"></circle>
+                <g id="kickstarter-logo-k-light" transform="translate(47.000000, 43.000000)">
+                    <g id="Clip-2">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use fill="#F4F4F4" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
