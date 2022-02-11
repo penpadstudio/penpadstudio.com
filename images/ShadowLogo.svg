@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="288px" height="288px" viewBox="0 0 288 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>NoirID Copy</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <polygon id="path-1" points="143.9999 0 0 0 0 288 143.9999 288 287.9998 288 287.9998 0"></polygon>
-    </defs>
-    <g id="Development" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="penstudioblack-copy">
-            <g id="NoirID-Copy">
-                <g id="Group-3">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <g id="Clip-2"></g>
-                    <path d="M287.9998,144 C287.9998,223.529 223.5288,288 143.9998,288 C64.4708,288 -0.0002,223.529 -0.0002,144 C-0.0002,64.471 64.4708,0 143.9998,0 C223.5288,0 287.9998,64.471 287.9998,144" id="IDCircle" fill="#F4F4F4" mask="url(#mask-2)"></path>
-                </g>
-                <path d="M220.248865,142.87661 L278.54871,195.370027 C259.253618,245.874988 212.348024,282.703087 156.288741,287.441558 L43.9206858,175.092986 C43.4427698,174.615152 43.5139666,173.460939 44.1342762,171.630345 L70.6876,156.8904 L73.7336,154.6744 L220.248865,142.87661 Z" id="Path" fill="#BFBFBF"></path>
-                <path d="M217.0829,151.0947 L217.0379,151.0947" id="Fill-10" fill="#F4F4F4"></path>
+<svg width="289px" height="289px" viewBox="0 0 289 289" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 10</title>
+    <g id="Website-penstud.io" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="12.9″-iPad-Pro-Copy-2" transform="translate(-106.000000, -229.000000)">
+            <g id="Group-10" transform="translate(106.000000, 229.000000)">
+                <path d="M220.895994,143.120759 L273.569511,190.546621 C255.194755,242.046969 206.870989,279.324084 149.568189,281.407991 L43.6494394,175.504928 C43.1690342,175.024606 43.2406018,173.864381 43.8641422,172.024253 L70.5557646,157.207537 L73.6176292,154.979996 L220.895994,143.120759 Z" id="Combined-Shape" fill-opacity="0.3" fill="#161616"></path>
+                <path d="M144.5,0 C224.305146,0 289,64.6948537 289,144.5 C289,224.305146 224.305146,289 144.5,289 C64.6948537,289 0,224.305146 0,144.5 C0,64.6948537 64.6948537,0 144.5,0 Z M144.5,7.5 C68.8369893,7.5 7.5,68.8369893 7.5,144.5 C7.5,220.163011 68.8369893,281.5 144.5,281.5 C220.163011,281.5 281.5,220.163011 281.5,144.5 C281.5,68.8369893 220.163011,7.5 144.5,7.5 Z" id="Oval" fill-opacity="0" fill="#FFFFFF" fill-rule="nonzero"></path>
             </g>
         </g>
     </g>
