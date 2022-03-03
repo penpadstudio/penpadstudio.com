@@ -230,7 +230,7 @@ a {
   padding-bottom: 10px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#f4f4f4), to(#f4f4f4));
   background-image: linear-gradient(180deg, #f4f4f4, #f4f4f4);
-  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, .75);
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, .25);
 }
 
 .fakesideboarder {
@@ -242,6 +242,7 @@ a {
   padding-left: 10px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#f4f4f4), to(#f4f4f4));
   background-image: linear-gradient(180deg, #f4f4f4, #f4f4f4);
+	
 }
 
 .fakeboarder2 {
@@ -253,6 +254,7 @@ a {
   padding-right: 10px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#f4f4f4), to(#f4f4f4));
   background-image: linear-gradient(180deg, #f4f4f4, #f4f4f4);
+	
 }
 
 .bottomboarderfake {
@@ -264,7 +266,7 @@ a {
   padding-bottom: 10px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#f4f4f4), to(#f4f4f4));
   background-image: linear-gradient(180deg, #f4f4f4, #f4f4f4);
-  box-shadow: 0 -4px 10px 0 rgba(0, 0, 0, .75);
+  box-shadow: 0 -4px 10px 0 rgba(0, 0, 0, .25);
 }
 
 .text-block-2 {
