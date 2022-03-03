@@ -87,8 +87,8 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 600px;
-  margin: 30px 40px;
+  width: 400px;
+  margin: 0px 0px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -285,7 +285,7 @@ a {
     margin: 15px;
   }
   .social-flexbox {
-    width: 500px;
+    width: 400px;
   }
   .outside-flexbox {
     margin-top: 100px;
@@ -299,7 +299,7 @@ a {
 @media (max-width: 767px) {
   .social-flexbox {
     width: auto;
-    max-width: 500px;
+    max-width: 400px;
     margin-right: 42px;
     margin-left: 42px;
   }
